@@ -1,0 +1,21 @@
+.user{
+     
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.user-btn{
+    background-color: burlywood;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 6px 24px;
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 1rem;
+}
